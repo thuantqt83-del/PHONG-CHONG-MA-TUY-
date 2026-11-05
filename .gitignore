@@ -1,0 +1,14 @@
+# File hệ thống Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# File hệ thống macOS
+.DS_Store
+
+# Công cụ phát triển và thư mục tạm
+.claude/
+node_modules/
+*.tmp
+*.bak
+~$*
